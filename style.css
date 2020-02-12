@@ -1,0 +1,29 @@
+songs{
+	color: #fff;
+	background-color: #904C77;
+	padding: 10px;
+	text-align: center;
+}
+
+heading{
+	font-size: 30px;
+	font-family: roboto;
+	background-color: #fff;
+	color: #904C77;
+	font-weight: bold;
+	padding-top: 5px;
+}
+
+name, genre, artist, year {
+	display: block;
+	font-family: roboto;
+}
+
+song{
+	padding: 10px;
+}
+
+name {
+	font-weight: bold;
+	font-size: 20px;
+}

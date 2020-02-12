@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="style.css"?> 
+<songs> 
+    <heading>The Galentines: Cover Band Set List</heading> 
+    <song> 
+        <name>Title: Come Thru</name> 
+        <artist>Artist(s): Summer Walker, Usher</artist> 
+        <genre>Genre: RnB</genre> 
+        <year>Year: 2019</year> 
+    </song> 
+    <song> 
+        <name>Title: BUSSIT</name> 
+        <artist>Artist(s): Dreamville, Ari Lennox</artist> 
+        <genre>Genre: RnB</genre> 
+        <year>Year: 2020</year> 
+    </song> 
+    <song> 
+        <name>Title: Sock it 2 Me</name>  
+        <artist>Artist(s): Missy Elliot</artist> 
+        <genre>Genre: Rap/RnB</genre> 
+        <year>Year: 1997</year> 
+    </song> 
+    <song> 
+        <name>Title: Toast</name> 
+        <artist>Artist(s): Koffee</artist> 
+        <genre>Genre: Reggae</genre> 
+        <year>Year: 2019</year> 
+    </song> 
+    <song> 
+        <name>Title: Time Machine</name> 
+        <artist>Artist(s): Willow</artist> 
+        <genre>Genre: Bedroom Pop</genre> 
+        <year>Year: 2019</year> 
+    </song> 
+    <song> 
+        <name>Title: Love Galore</name> 
+        <artist>Artist(s): SZA, Travis Scott</artist> 
+        <genre>Genre: Hip Hop, RnB</genre> 
+        <year>Year: 2017</year> 
+    </song> 
+    <song> 
+        <name>Title: Juicy</name> 
+        <artist>Artist(s): Doja Cat, Tyga</artist> 
+        <genre>Genre: Rap, Hip Hop</genre> 
+        <year>Year: 2019</year> 
+    </song> 
+    <song> 
+        <name>Title: Nights Like This</name>  
+        <artist>Artist(s): Kehlani, Ty Dolla $ign</artist> 
+        <genre>Genre: Wiley</genre> 
+        <year>Year: 2019</year> 
+    </song> 
+    <song> 
+        <name>Title: Do U Know How to Have Feelings?</name> 
+        <artist>Artist(s): PHIA Z</artist> 
+        <genre>Genre: Pop</genre> 
+        <year>Year: 2019</year> 
+    </song> 
+    <song> 
+        <name>Title: Something Bout the Rain</name> 
+        <artist>Artist(s): Pip Millet</artist> 
+        <genre>Genre: RnB</genre> 
+        <year>Year: 2019</year> 
+    </song> 
+</songs> 
